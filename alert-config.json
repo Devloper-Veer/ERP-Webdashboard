@@ -1,6 +1,6 @@
 {
   "enabled": true,
-  "smtpUser": "your_mail_id",
+  "smtpUser": "mail id",
   "smtpPass": "to_be_created_at_gmail.com",
   "recipients": "receivers_email_id",
   "lastImmediate": "2026-04-15T11:09:14.653Z",
